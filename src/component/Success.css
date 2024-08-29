@@ -1,0 +1,30 @@
+/* Success.css */
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.alert-success {
+    padding: 20px;
+    font-size: 1.25rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 0.25rem;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
